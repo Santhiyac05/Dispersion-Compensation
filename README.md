@@ -69,6 +69,10 @@ The main physical components of this layout are:
 ---
 <img width="753" height="503" alt="image" src="https://github.com/user-attachments/assets/d3cd4845-6171-4d34-b1fe-29bead1a80cc" />
 
+<img width="754" height="496" alt="image" src="https://github.com/user-attachments/assets/3fa83992-956e-4f53-a2ea-084856ab86e8" />
+
+<img width="415" height="610" alt="image" src="https://github.com/user-attachments/assets/77dd64f3-1e83-41a0-b396-e7f423d7995b" />
+
 
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
